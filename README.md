@@ -1,8 +1,7 @@
 BINARY TREES
 KARLIE MOYO
-![undraw_programming_re_kg9v](https://raw.githubusercontent.com/Karlie-crypto/binary_trees/main/binary%20tree%20set.webp0)
+![/home/karlie/Pictures/KARLIE/1 5DhOQa4s4y-HiPu5kEqTGA.xcf](https://raw.githubusercontent.com/Karlie-crypto/binary_trees/main/binary%20tree%20set.webp0)
 
-![](https://www.tutorialspoint.com/data_structures_algorithms/images/binary_tree.jpg)
 
 PROECT DESCRIPTION
 | FILE                             | PROTOTYPE                                                                                        | DESCRIPTION
