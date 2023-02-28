@@ -1,6 +1,6 @@
 BINARY TREES
 KARLIE MOYO
-![/home/karlie/Pictures/KARLIE/1 5DhOQa4s4y-HiPu5kEqTGA.xcf](https://raw.githubusercontent.com/Karlie-crypto/binary_trees/main/binary%20tree%20set.webp0)
+![binary tree set.webp](https://raw.githubusercontent.com/Karlie-crypto/binary_trees/main/binary%20tree%20set.webp0)
 
 
 PROECT DESCRIPTION
