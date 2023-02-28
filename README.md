@@ -1,6 +1,7 @@
 BINARY TREES
 
-![](https://raw.githubusercontent.com/Karlie-crypto/binary_trees/main/binary%20tree%20set.webp0)
+![file:///home/karlie/Downloads/72Us.gif![image](https://user-images.githubusercontent.com/110098940/221910794-3f9e7440-f55d-4bf6-aa39-5e588ac8a8bd.png)
+
 
 
 PROJECT DESCRIPTION
