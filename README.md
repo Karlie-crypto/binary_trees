@@ -42,3 +42,5 @@ PROJECT DESCRIPTION
 | `122-array_to_avl.c`             | `avl_t *array_to_avl(int *array, size_t size);`                                                  |`builds an ALV tree from an array
 
 
+
+AUTHOR KARLIE MOYO
