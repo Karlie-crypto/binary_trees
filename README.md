@@ -1,9 +1,9 @@
 BINARY TREES
-KARLIE MOYO
-![binary tree set.webp](https://raw.githubusercontent.com/Karlie-crypto/binary_trees/main/binary%20tree%20set.webp0)
+
+![](https://raw.githubusercontent.com/Karlie-crypto/binary_trees/main/binary%20tree%20set.webp0)
 
 
-PROECT DESCRIPTION
+PROJECT DESCRIPTION
 | FILE                             | PROTOTYPE                                                                                        | DESCRIPTION
 | -------------------------------- | ------------------------------------------------------------------------------------------------ |-------------------------------------------------- |
 | `binary_tree_print.c`            | `void binary_tree_print(const binary_tree_t *tree)`                                              |`functions and libraries
